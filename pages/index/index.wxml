@@ -21,3 +21,4 @@
     <text class="user-motto">{{motto}}</text>
   </view>
 </view>
+<view>知识点1</view>
